@@ -8,7 +8,7 @@ El proyecto consistia de una cafetería de la que se obtenían puntos dependiend
 
 Este proyecto servía para utilizar distintas metodologías de producción y trabajo en grupo, además de aprender código.
 
-**(Esta información se actualizará más adelante este año.)
+**(Esta información se actualizará más adelante este año.)**
 
 ## English
 
@@ -18,7 +18,7 @@ The project consisted of a café where points were obtained depending on the arc
 
 This project served to use different production methodologies and group work, as well as to learn code.
 
-(This information will be updated later this year.)
+**(This information will be updated later this year.)**
 
 ## 日本語
 
@@ -28,6 +28,6 @@ CoffeeNETは、コンピュータエンジニアリングの1年目のプロジ�
 
 このプロジェクトは、異なる生産方法やグループワークを使うこと、そしてコードを学ぶことに役立ちました。
 
-（この情報は後で更新されます。）
+**（この情報は後で更新されます。）**
 
 ©Javier da Silva Costa
