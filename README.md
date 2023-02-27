@@ -1,4 +1,4 @@
-# Coffeenet
+# CoffeeNET
 
 ## Español
 
